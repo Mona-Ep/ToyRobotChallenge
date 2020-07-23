@@ -1,0 +1,11 @@
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\bin\Debug\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\bin\Debug\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobotChallenge.csproj.CoreCompileInputs.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\bin\Debug\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\bin\Debug\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.csproj.CoreCompileInputs.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Debug\ToyRobotChallenge.csprojAssemblyReference.cache

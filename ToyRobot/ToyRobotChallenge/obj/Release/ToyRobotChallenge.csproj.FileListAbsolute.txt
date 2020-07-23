@@ -1,0 +1,5 @@
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\bin\Release\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\bin\Release\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Release\ToyRobotChallenge.csproj.CoreCompileInputs.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Release\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobotChallenge\obj\Release\ToyRobotChallenge.pdb

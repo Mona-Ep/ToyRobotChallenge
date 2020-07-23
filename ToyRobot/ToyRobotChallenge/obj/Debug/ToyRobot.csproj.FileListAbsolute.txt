@@ -1,0 +1,5 @@
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\bin\Debug\ToyRobot.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csproj.CoreCompileInputs.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb

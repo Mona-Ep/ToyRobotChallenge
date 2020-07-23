@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestOfToyRobot", "UnitTestOfToyRobot\UnitTestOfToyRobot.csproj", "{2A890695-7965-40B9-9A61-D450787140EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SampleTestFiles", "SampleTestFiles", "{5112BDEE-B28F-4075-BEB5-1A68C65ED13F}"
+	ProjectSection(SolutionItems) = preProject
+		SampleTestFiles\TestCorrectCommands.txt = SampleTestFiles\TestCorrectCommands.txt
+		SampleTestFiles\TestCorrectCommandsWithOutReportCommand.txt = SampleTestFiles\TestCorrectCommandsWithOutReportCommand.txt
+		SampleTestFiles\TestNotValidCommands.txt = SampleTestFiles\TestNotValidCommands.txt
+		SampleTestFiles\TestValidAndNotValidCommands.txt = SampleTestFiles\TestValidAndNotValidCommands.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotChallenge", "ToyRobotChallenge\ToyRobotChallenge.csproj", "{2D4FCE0E-2684-4B19-BCDE-D0A15AEE5644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobotSimulator", "ToyRobotSimulator\ToyRobotSimulator.csproj", "{012E4390-8AC7-4061-888D-F1E44F321622}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{1B968F66-394B-463C-AEA5-CFBE2A9CC4F4}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\What Is the Toy Robot Challenge.pdf = Documents\What Is the Toy Robot Challenge.pdf
+		Documents\Working with ToyRobot challenge simulator.pdf = Documents\Working with ToyRobot challenge simulator.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A890695-7965-40B9-9A61-D450787140EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A890695-7965-40B9-9A61-D450787140EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A890695-7965-40B9-9A61-D450787140EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A890695-7965-40B9-9A61-D450787140EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4FCE0E-2684-4B19-BCDE-D0A15AEE5644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4FCE0E-2684-4B19-BCDE-D0A15AEE5644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4FCE0E-2684-4B19-BCDE-D0A15AEE5644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4FCE0E-2684-4B19-BCDE-D0A15AEE5644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012E4390-8AC7-4061-888D-F1E44F321622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012E4390-8AC7-4061-888D-F1E44F321622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012E4390-8AC7-4061-888D-F1E44F321622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012E4390-8AC7-4061-888D-F1E44F321622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF96B24E-ECD3-4AD8-95CC-9C53A2978A1B}
+	EndGlobalSection
+EndGlobal

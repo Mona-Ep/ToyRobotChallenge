@@ -1,0 +1,10 @@
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\bin\Release\ToyRobotSimulator.exe.config
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\bin\Release\ToyRobotSimulator.exe
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\bin\Release\ToyRobotSimulator.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\bin\Release\ToyRobotChallenge.dll
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\bin\Release\ToyRobotChallenge.pdb
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\obj\Release\ToyRobotSimulator.csprojAssemblyReference.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\obj\Release\ToyRobotSimulator.csproj.CoreCompileInputs.cache
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\obj\Release\ToyRobotSimulator.csproj.CopyComplete
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\obj\Release\ToyRobotSimulator.exe
+E:\Robot\ToyRobot\ToyRobot\ToyRobotSimulator\obj\Release\ToyRobotSimulator.pdb
